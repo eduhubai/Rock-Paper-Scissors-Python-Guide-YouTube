@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors Game
 
-![Rock-Paper-Scissors](link-to-your-thumbnail-image)
+![Rock-Paper-Scissors](https://raw.githubusercontent.com/eduhubai/Rock-Paper-Scissors-Python-Guide-YouTube/main/thumbnail.png)
 
 Welcome to the Rock-Paper-Scissors Game project! This repository contains all the files you need to build and play a Rock-Paper-Scissors game using Python.
 
