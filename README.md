@@ -30,7 +30,7 @@ In this project, you will learn and implement various Python concepts including:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/rock-paper-scissors-game.git
+    git clone https://github.com/eduhubai/rock-paper-scissors-game.git
     ```
 2. **Navigate to the Directory:**
     ```bash
@@ -43,7 +43,7 @@ In this project, you will learn and implement various Python concepts including:
 
 ## Video Tutorial
 
-Watch the full tutorial on YouTube: [Start Coding Today: Rock Paper Scissors Game in Python](https://www.youtube.com/watch?v=link-to-video)
+Watch the full tutorial on YouTube: [Start Coding Today: Rock Paper Scissors Game in Python](https://www.youtube.com/watch?v=B_C-y64Ex-U)
 
 ## License
 
